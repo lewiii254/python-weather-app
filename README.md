@@ -1,4 +1,4 @@
-# Weather Project
+# 🚀Weather Project
 
 A Django-based weather information application that fetches weather data from OpenWeather API.
 
